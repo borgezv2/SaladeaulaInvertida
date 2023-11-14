@@ -1,0 +1,64 @@
+.textogrande{
+    font-size: 25px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+.button {
+    background-color: #1b80a4; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+  border: 1px solid rgb(255, 255, 255);
+  
+  }
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: #4c5baf; /* Green */
+    color: white;
+}
+
+.vascotintas{
+    background-color: #021831;
+}
+
+.city {
+	background-color: #0840a9a9;
+	color: whithe;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+   align-items: center;
+   }	
+   .city2 {
+	background-color: beige;
+	color: whithe;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+   }
+   .city3 {
+	background-color: #776655;
+	color: whithe;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+   }
+   .city4 {
+	background-color: green;
+	color: whithe;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+   }
+   .city5 {
+	background-color: gold;
+	color: whithe;
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+   }
